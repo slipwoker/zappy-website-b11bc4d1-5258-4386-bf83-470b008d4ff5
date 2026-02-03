@@ -1,0 +1,52 @@
+# שלום ובניו — Generative Engine Optimization Map
+
+> A משפטי business.
+
+---
+
+## Pages
+
+### Home
+https://-b11bc4d1.zappy5.app
+
+### Practice Areas
+https://-b11bc4d1.zappy5.app/practice-areas
+
+### Team
+https://-b11bc4d1.zappy5.app/team
+
+### Contact
+https://-b11bc4d1.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b11bc4d1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b11bc4d1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b11bc4d1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שלום ובניו
+שלום ובניו is a business in the משפטי industry.
+
+## Target Audience
+
+## Industry
+משפטי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b11bc4d1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b11bc4d1.zappy5.app/robots.txt
